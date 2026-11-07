@@ -6,6 +6,7 @@ automáticamente con GitHub Actions en cada `push` y `pull_request`.
 
 ## Estructura
 
+
 ```
 sistema-estudiantes-ci/
 ├── .github/workflows/ci.yml   ← workflow de CI
