@@ -1,0 +1,13 @@
+{
+  "name": "sistema-estudiantes-ci",
+  "version": "1.0.0",
+  "description": "Practica de integracion continua con Git, GitHub y GitHub Actions",
+  "main": "src/calificaciones.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
